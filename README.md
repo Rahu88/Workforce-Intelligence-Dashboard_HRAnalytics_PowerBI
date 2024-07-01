@@ -1,0 +1,2 @@
+# Workforce-Intelligence-Dashboard_HRAnalytics_PowerBI
+The Workforce Intelligence Dashboard leverages Power BI capabilities to analyze and visualize employee data to highlight key metrics across the organization. The dashboard populates comprehensive visuals with a HR dataset consisting of numerous features. The dashboard tool provides valuable insights to create a data-driven decision-making process.
