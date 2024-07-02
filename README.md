@@ -59,6 +59,6 @@ The Power BI dashboard provides comprehensive insights into HR employee data, of
 https://github.com/Rahu88/Workforce-Intelligence-Dashboard_HRAnalytics_PowerBI/assets/131523618/28f7faf9-477c-4c28-8f48-f8f04f449c66
 
 ## Author
-Rahul Reddy Dubba
+[Rahul Reddy Dubba](https://github.com/Rahu88)
 
 
