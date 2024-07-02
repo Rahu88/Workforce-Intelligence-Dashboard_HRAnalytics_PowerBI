@@ -46,7 +46,7 @@ Examples of the fetaures:
 Steps:
 
 * Clone the repository to your local.
-* Load in the dataset to your preffered power BI setup.
+* Load in the dataset to your preferred power BI setup.
 * Load the dashboard in to power BI.
 * Modify or add graphics based on your preference.
 
