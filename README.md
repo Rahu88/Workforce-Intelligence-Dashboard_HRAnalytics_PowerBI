@@ -29,4 +29,36 @@ The Dashboard includes graphics ranging from simple data cards to gauges, donut 
  * Attrition per Years At Company : Line chart showcasing the total count of emplpyees who have left the company pver the years.
 
 ## Dataset
-The dataset [HR Analytics Dataset](./Dataset/HR_Analytics.csv) consists of over 30+ features including employee count, age group, attrition, retention, monthly income, years in company, and etc. The dataset is stored in a CSV file with over 480 rows of  unique data values included with various measures and derived columns using DAX.
+The dataset [HR Analytics Dataset](./Dataset/HR_Analytics.csv) consists of over 30+ features containg employee information including employee count, age group, attrition, retention, monthly income, years in company, and etc. The dataset is stored in a CSV file with over 480 rows of  unique data values included with various measures and derived columns using DAX.
+
+Examples of the fetaures:
+* Employee Count : Total Count of employees in the organization.
+* Age : The current age of the employee.
+* Education : Educational background of the employee.
+* Monthly Income : Income of employee on a monthly basis.
+* Attrition : Indicates whether the employee has left the company.
+* Job Satisfaction : Rating of satisfaction of job role for the employee.
+* Salary Slab : Indicates the employee's current salary interval.
+* Performance Rating : Rating of employee based on their performance.
+
+## How to Use
+
+Steps:
+
+* Clone the repository to your local.
+* Load in the dataset to your preffered power BI setup.
+* Load the dashboard in to power BI.
+* Modify or add graphics based on your preference.
+
+## Conclusion
+
+The Power BI dashboard provides comprehensive insights into HR employee data, offering actionable analytics on key metrics. It empowers decision-makers with real-time information to drive strategic HR initiatives and optimize organizational performance effectively. Through an effective dashboard, the organization can improve and overcome its shortcomings by developing quick insights on their employee data.
+
+## Demo
+
+https://github.com/Rahu88/Workforce-Intelligence-Dashboard_HRAnalytics_PowerBI/assets/131523618/28f7faf9-477c-4c28-8f48-f8f04f449c66
+
+## Author
+Rahul Reddy Dubba
+
+
